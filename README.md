@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leeyeehao
-- 👀 I’m interested in Machine Learning (Reinforcement learning, deep learning) and being a full stack web developer.
+- 👀 I’m interested in Machine Learning (Reinforcement learning, deep learning) and aiming to be a web developer.
 - 🌱 I’m currently working as a Data Analyst in Manufacturing company.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: leeyeehao@hotmail.com
